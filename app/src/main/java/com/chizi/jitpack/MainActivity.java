@@ -3,6 +3,8 @@ package com.chizi.jitpack;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.chizi.library.MyClass;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
